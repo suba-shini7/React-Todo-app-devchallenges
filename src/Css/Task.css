@@ -1,0 +1,26 @@
+.task ul li{
+    list-style: none;
+    display: flex;
+    
+}
+.tasks{
+    list-style: none;
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: -10px;
+}
+label{
+    font-size: 18px;
+    padding: 30px;
+    color: rgb(12, 173, 12);
+}
+.del{
+    background-color: transparent;
+    border: transparent;
+
+}
+.bi{
+
+    font-size: 18px;
+    color: red;
+}

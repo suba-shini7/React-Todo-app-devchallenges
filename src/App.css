@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.input-field{
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid rgb(217, 216, 216);
+  margin-top: 20px;
+}
+.input-field:focus{
+  border: 1px solid rgb(217, 216, 216);
+
+}
+.add{
+  height: 40px;
+  width: 100px;
+  background-color:  #2F80ED;
+  border: 1px solid  #2F80ED;
+  margin-left: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+}
